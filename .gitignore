@@ -105,7 +105,11 @@ coverage
 # Strapi
 ############################
 
+# Environment variables
 .env
+.env.development
+.env.production
+
 license.txt
 exports
 .strapi
